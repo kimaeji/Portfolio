@@ -44,20 +44,20 @@ footer > .footer_wrap > .footer_txt{ text-align: center; font-family: 'Roboto', 
 
 section > .sub1_visual {background-image: url('../img/33_2.png');height: 20rem;}
 section > .sub1_visual > .sub1_visual_wrap {margin: auto;width: 102.4rem;height: 20rem;}
-section > .sub1_visual > .sub1_visual_wrap > .sub1_visual_title {padding-top: 13.8rem; text-align: right;}
+section > .sub1_visual > .sub1_visual_wrap > .sub1_visual_title {padding-top: 13.8rem; text-align: center;}
 section > .sub1_image {margin: auto; width: 102.4rem; padding-top: 12rem; padding-bottom: 15rem;}
 
 section > .sub2_visual {background-image: url('../img/44_2.png');height: 20rem;}
 section > .sub2_visual > .sub2_visual_wrap {margin: auto;width: 102.4rem;height: 20rem;}
-section > .sub2_visual > .sub2_visual_wrap > .sub2_visual_title {padding-top: 13.8rem; text-align: right;}
+section > .sub2_visual > .sub2_visual_wrap > .sub2_visual_title {padding-top: 13.8rem; text-align: center;}
 section > .sub2_image {margin: auto; width: 102.4rem; padding-top: 12rem; padding-bottom: 15rem;}
 
 section > .sub3_visual {background-image: url('../img/55_2.png');height: 20rem;}
 section > .sub3_visual > .sub3_visual_wrap {margin: auto;width: 102.4rem;height: 20rem;}
-section > .sub3_visual > .sub3_visual_wrap > .sub3_visual_title {padding-top: 13.8rem; text-align: right;}
+section > .sub3_visual > .sub3_visual_wrap > .sub3_visual_title {padding-top: 13.8rem; text-align: center;}
 section > .sub3_image {margin: auto; width: 102.4rem; padding-top: 12rem; padding-bottom: 15rem;}
 
 section > .sub4_visual {background-image: url('../img/66_2.png');height: 20rem;}
 section > .sub4_visual > .sub4_visual_wrap {margin: auto;width: 102.4rem;height: 20rem;}
-section > .sub4_visual > .sub4_visual_wrap > .sub4_visual_title {padding-top: 13.8rem; text-align: right;}
+section > .sub4_visual > .sub4_visual_wrap > .sub4_visual_title {padding-top: 13.8rem; text-align: center;}
 section > .sub4_image {margin: auto; width: 102.4rem; padding-top: 12rem; padding-bottom: 15rem;}
